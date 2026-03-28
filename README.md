@@ -15,7 +15,11 @@ This project is part of the Digital Literacy course at VIT Bhopal. It focuses on
 - Task 5: Cybercrime Awareness & Prevention
 
 ## 🔗 Google Form Link
-(Add your form link here)
+https://docs.google.com/spreadsheets/d/1op4v0DHBga5MZsRMtxur4DwrTht5U7bzxt48kO0QqFI/edit?usp=sharing
+## 🔗 Canva Link
+https://canva.link/2oy6wjavxgyzvfh
+## 🔗 GitHub Link
+https://github.com/Eshaan-Sharma20/Digital_literacy_project/edit/main/README.md
 
 ## 📊 Repository Structure
 Each folder contains the respective task files, screenshots, and documentation.
